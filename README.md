@@ -1,3 +1,5 @@
 # Proyectos de Go para principiantes
 
-[Proyecto uno](https://github.com/FuenRob/go-projects-beginning/tree/main/units-conversor)
+[Conversor de unidades](https://github.com/FuenRob/go-projects-beginning/tree/main/units-conversor)
+[Adivina el número](https://github.com/FuenRob/go-projects-beginning/tree/main/guess-the-number)
+[Gestor de tareas](https://github.com/FuenRob/go-projects-beginning/tree/main/todo-list)
